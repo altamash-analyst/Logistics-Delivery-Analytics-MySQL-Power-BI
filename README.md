@@ -1,4 +1,4 @@
-# `Logistics & Delivery Analytics | MySQL & Power BI`
+# Logistics & Delivery Analytics | MySQL & Power BI
 
 An end-to-end **Logistics & Delivery Analytics** project using **MySQL 8.0 and Power BI** to analyze shipment performance, delivery operations, route efficiency, driver performance, warehouse operations, revenue, costs, and profitability.
 
