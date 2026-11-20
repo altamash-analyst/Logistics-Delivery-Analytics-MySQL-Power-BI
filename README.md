@@ -136,6 +136,8 @@ The Power BI report contains five analytical pages.
 
 Provides a management-level summary of logistics performance.
 
+![Logistics & Delivery Analytics | MySQL & Power BI](Dashboard/Dashboard1.PNG)
+
 Key metrics and analysis:
 
 - Total Shipments
@@ -152,6 +154,8 @@ Key metrics and analysis:
 
 Evaluates transportation efficiency and regional performance.
 
+![Logistics & Delivery Analytics | MySQL & Power BI](Dashboard/Dashboard2.PNG)
+
 Key metrics and analysis:
 
 - Route Performance
@@ -167,6 +171,8 @@ Key metrics and analysis:
 
 Analyzes driver productivity and performance.
 
+![Logistics & Delivery Analytics | MySQL & Power BI](Dashboard/Dashboard3.PNG)
+
 Key metrics and analysis:
 
 - Active Drivers
@@ -180,6 +186,8 @@ Key metrics and analysis:
 ### 4. Delivery Operations
 
 Focuses on shipment execution and warehouse operations.
+
+![Logistics & Delivery Analytics | MySQL & Power BI](Dashboard/Dashboard4.PNG)
 
 Key metrics and analysis:
 
@@ -196,6 +204,8 @@ Key metrics and analysis:
 ### 5. Cost, Revenue & Profitability
 
 Examines financial performance and transportation costs.
+
+![Logistics & Delivery Analytics | MySQL & Power BI](Dashboard/Dashboard5.PNG)
 
 Key metrics and analysis:
 
