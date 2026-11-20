@@ -4,6 +4,17 @@ An end-to-end **Logistics & Delivery Analytics** project using **MySQL 8.0 and P
 
 The project transforms relational logistics data into an analytical SQL view and an interactive five-page Power BI dashboard to support operational and management decision-making.
 
+![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-Data%20Analytics-blue)
+![Dataset](https://img.shields.io/badge/Dataset-Synthetic-orange)
+
+**Project Type:** Data Analytics Portfolio Project  
+**Database:** MySQL 8.0  
+**SQL Environment:** MySQL Shell  
+**Visualization:** Microsoft Power BI  
+**Dataset:** Synthetic / Practice Data
+
 ---
 
 ## Project Overview
